@@ -14,7 +14,7 @@
 
 ## About
 
-This is a Python library that implements the methods described in the article _Controlling precedence in sequential stimulus presentation with Euler tours_. It contains two files:
+This is a Python library that implements the methods described in the article _Controlling precedence in sequential stimulus presentation with Euler tours_, available on [PsyArXiv](https://psyarxiv.com/y8r6k/). It contains two files:
 
 1. ```euler.py```: contains all functionality for generating sequences of stimuli. Add this file to your working directory and import it using ```import euler``` to use the library.
 2. ```sequence.py```: contains examples of generating sequences of stimuli for various experimental parameters. Run it by calling ```python sequence.py``` on the command line.
